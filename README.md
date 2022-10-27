@@ -1,4 +1,6 @@
-Contains 8 functions:
+PDCONTEXTEVENTS
+----------------------------------------------------------
+PDCONTEXTEVENTS is a Python package that contains 8 functions:
 
 1. This returns all items under "hashtag". 
 It has 1 argument, enter the hashtag path from the event
